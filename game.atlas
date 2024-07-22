@@ -1,0 +1,62 @@
+
+game.png
+size: 512, 64
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPromotionIcons/Chivalry Code
+  rotate: false
+  xy: 4, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Modern Warfare
+  rotate: false
+  xy: 62, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Raiding
+  rotate: false
+  xy: 120, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Skirmisher Tactics
+  rotate: false
+  xy: 178, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Spear Wall
+  rotate: false
+  xy: 236, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Stomping
+  rotate: false
+  xy: 294, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Village Raiding
+  rotate: false
+  xy: 352, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/War Cry
+  rotate: false
+  xy: 410, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

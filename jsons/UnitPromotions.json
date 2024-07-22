@@ -1,0 +1,39 @@
+[
+    {
+		"name": "War Cry",
+                "unitTypes": ["Sword"],
+		"uniques": ["[+10]% Strength bonus for [Sword] units within [2] tiles"]
+	},
+{
+		"name": "Modern Warfare",
+		"uniques": ["[+10]% Strength bonus for [Wounded] units within [2] tiles"]
+	},
+{
+		"name": "Raiding",
+                "unitTypes": ["Sword","Mounted"],
+		"uniques": ["[+20]% Strength <vs cities> <when attacking>"]
+	},
+{
+		"name": "Stomping",
+                "unitTypes": ["Mounted"],
+		"uniques": ["[+15]% Strength","[-1] Movement"]
+	},
+{
+		"name": "Village Raiding",
+		"uniques": ["[+20]% Strength <vs cities> <when attacking>"]
+	},
+{
+		"name": "Spear Wall",
+                "unitTypes": ["Sword"],
+		"uniques": ["[+15]% Strength <vs [Mounted] units>"]
+	},
+{
+		"name": "Chivalry Code",
+		"uniques": ["[+15]% Strength <vs [Mounted] units>"]
+	},
+{
+		"name": "Skirmisher Tactics",
+                "unitTypes": ["Archery","Ranged Gunpowder"],
+		"uniques": ["[+10]% Strength <when fighting in [Jungle] tiles> <when attacking>","[+10]% Strength <when fighting in [Forest] tiles> <when attacking>","[+1] Movement"]
+	},
+	]
